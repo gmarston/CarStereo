@@ -189,7 +189,7 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:textAppearance="?android:attr/textAppearanceLarge"
-            android:text="CD Player"
+            android:text="__________________________________"
             android:id="@+id/cdTextView"
             android:background="#FFFFCDB2"
             android:textColor="#FF000000"
